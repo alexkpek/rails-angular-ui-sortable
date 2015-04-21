@@ -14,4 +14,4 @@ Add the following to your Rails JavaScript manifest file:
 
 ## Versioning
 
-Current version of jQuery-UI Sortable - 0.13.3
+Current version of jQuery-UI Sortable - 0.13.3.1
