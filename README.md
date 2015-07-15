@@ -12,6 +12,10 @@ Add the following to your Rails JavaScript manifest file:
 
     //= require angular-ui-sortable
 
+For minified version add .min suffix:
+
+    //= require angular-ui-sortable.min
+
 ## Versioning
 
-Current version of jQuery-UI Sortable - 0.13.3.1
+Current version of jQuery-UI Sortable - 0.13.4
